@@ -27,12 +27,13 @@ div{
     border-radius: 10px;
 }
 
-.card {
-    margin: 200px auto;
+  .card {
+    margin: 100px auto;
     width: 40%;
     border-radius: 10px;
     background-color: #FEFBF6;
 }
+
 
 img {
     width: 300px;
